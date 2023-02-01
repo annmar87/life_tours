@@ -1,0 +1,24 @@
+button {
+  color: white;
+}
+.azules {
+  background-color: rgb(13, 106, 109);
+}
+.rojos {
+  background-color: red;
+}
+.blanco {
+  background-color: white;
+  color: black;
+}
+#veide {
+  background-color: green;
+}
+body {
+    background-color: rgb(203, 228, 235);
+}
+#doccia {
+    width: 300px;
+
+
+}
